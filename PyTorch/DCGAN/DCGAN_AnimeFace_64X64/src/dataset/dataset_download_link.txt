@@ -1,0 +1,2 @@
+dataset downloaded from kaggle, 
+link: https://www.kaggle.com/soumikrakshit/anime-faces

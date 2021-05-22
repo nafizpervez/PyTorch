@@ -1,0 +1,2 @@
+dataset download from kaggle. Use the cropped one with the dimention 200 X 200
+Link: https://www.kaggle.com/kostastokis/simpsons-faces

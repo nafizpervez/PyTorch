@@ -1,0 +1,28 @@
+Metadata-Version: 2.1
+Name: torch-tb-profiler
+Version: 0.1.0
+Summary: PyTorch Profiler TensorBoard Plugin
+Home-page: https://github.com/pytorch/kineto/tree/master/tb_plugin
+Author: PyTorch Team
+Author-email: packages@pytorch.org
+License: BSD-3
+Keywords: pytorch tensorboard profile plugin
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Python: >= 2.7, != 3.0.*, != 3.1.*
+Requires-Dist: pandas (>=1.0.0)
+Requires-Dist: tensorboard (!=2.1.0,>=1.15)
+
+PyTorch Profiler TensorBoard Plugin :         https://github.com/pytorch/kineto/tree/master/tb_plugin
+
+
